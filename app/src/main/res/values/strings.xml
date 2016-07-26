@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_restart">Restart</string>
+
+    <string name="ok">Ok</string>
+    <string name="ops">Ops!</string>
+    <string name="general_error">A problem ocurred. Try again.</string>
+    <string name="think_about_animal">Think about an animal.</string>
+    <string name="next">Next</string>
+    <string name="default_trait_message">Does the animal you thought about %1$s?</string>
+    <string name="default_animal_message">Is the animal you thought about a(an) %1$s?</string>
+    <string name="win_message">I win again!!!!</string>
+    <string name="what_was_the_animal">What whas the animal you thought about?</string>
+    <string name="a_animal_does">A %1$s ____ but a %2$s does not. (Fill with an animal trait like, "lives in the water")</string>
+
+    <string name="lives_in_the_water">lives in the water</string>
+    <string name="shark">shark</string>
+    <string name="monkey">monkey</string>
+    <string name="initial_alert">Tap on the button at the bottom of screen to continue. Aswner yes or no taping on the right button and type the awnsers when necessary.</string>
+    <string name="welcome">Welcome!</string>
+</resources>

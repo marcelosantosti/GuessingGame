@@ -1,0 +1,47 @@
+<resources>
+
+    <style name="AboutTheme" parent="AppTheme">
+        <item name="windowActionBar">true</item>
+
+    </style>
+
+    <style name="AppTheme" parent="BaseTheme">
+    </style>
+
+    <style name="BaseTheme"
+        parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/theme_default_primary</item>
+        <item name="colorPrimaryDark">@color/theme_default_primary_dark</item>
+        <item name="colorAccent">@color/theme_accent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorButtonNormal">@color/theme_accent</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="DialogEditText">
+        <item name="colorAccent">@color/white</item>
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+    <style name="SpinnerDialog">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+    <style name="Dark.Overlay" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:background">?attr/colorPrimary</item>
+    </style>
+
+    <style name="Dark.Overlay.LightPopup" parent="ThemeOverlay.AppCompat.Light">
+    </style>
+
+    <style name="AppTheme_ActionBar" parent="android:Widget.Holo.ActionBar.Solid">
+        <item name="android:titleTextStyle">@android:color/white</item>
+    </style>
+
+    <style name="TitleTextView" parent="android:Widget.TextView">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>

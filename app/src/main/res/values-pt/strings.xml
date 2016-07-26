@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Jogo de Adivinhação</string>
+
+    <string name="hello_world">Olá Mundo</string>
+    <string name="action_restart">Reiniciar</string>
+
+    <string name="ok">Ok</string>
+
+    <string name="ops">Ops!</string>
+    <string name="general_error">Um problema ocorreu. Tente novamente.</string>
+    <string name="think_about_animal">Pense a respeito de um animal.</string>
+    <string name="next">Próximo</string>
+    <string name="default_trait_message">O animal que você pensou %1$s?</string>
+    <string name="default_animal_message">O animal que você pensou é um(uma) %1$s?</string>
+    <string name="win_message">Eu ganhei de novo!!!!</string>
+    <string name="what_was_the_animal">Qual foi o animal que você pensou a respeito?</string>
+    <string name="a_animal_does">Um (uma) %1$s ____ mas um(uma) %2$s não. (Preencha com uma peculiaridade animal como, "vive na água")</string>
+
+    <string name="lives_in_the_water">vive na água</string>
+    <string name="shark">tubarão</string>
+    <string name="monkey">macaco</string>
+    <string name="initial_alert">Toque no botão abaixo da tela para continuar. Responda sim ou não tocando no botão respectivo e digite as respostas quando necessário.</string>
+    <string name="welcome">Bem vindo!</string>
+</resources>
